@@ -23,7 +23,7 @@ More widgets will be added soon...
 
 ## 🔧 Installation & Usage
 **Step 1**: Get Your Free API Key
-Head over to https://jolen.me/webservices/util/register.html to generate your free API key.
+Head over to https://jolen.me/webservices/utils/register.html to generate your free API key.
 
 **Step 2**: Add the Widget Script to Your Site
 Include the following line in the `<head>` of your HTML:

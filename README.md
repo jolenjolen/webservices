@@ -58,13 +58,6 @@ Note: `data-id` should be a unique identifier for the item (e.g., product, post,
 
 ## 💡 Example Use Case
 
-<h2>Rate this Product:</h2>
-<div class="rating-widget-rateHere" data-id="product123" data-username="ff"></div>
-
-<h3>All Ratings:</h3>
-<div class="rating-widget-showAll" data-id="product123"></div>
-<script src="https://jolen.me/webservices/rating-widget/rating-widget.js" data-api-key="abc123xyz"></script>
-
 ```html
 <head>
   <script src="https://jolen.me/webservices/rating-widget/rating-widget.js" data-api-key="abc123xyz"></script>

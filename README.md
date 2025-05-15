@@ -23,9 +23,11 @@ More widgets will be added soon...
 
 ## 🔧 Installation & Usage
 **Step 1**: Get Your Free API Key
+
 Head over to https://jolen.me/webservices/utils/register.html to generate your free API key.
 
 **Step 2**: Add the Widget Script to Your Site
+
 Include the following line in the `<head>` of your HTML:
 
 ```html
@@ -55,6 +57,13 @@ Example: `rating-widget`
 Note: `data-id` should be a unique identifier for the item (e.g., product, post, etc.). `data-username` needs to be passed through. this can be done manually by you or you can use our `user-widget` to login the user, store their username, and call the username here. 
 
 ## 💡 Example Use Case
+
+<h2>Rate this Product:</h2>
+<div class="rating-widget-rateHere" data-id="product123" data-username="ff"></div>
+
+<h3>All Ratings:</h3>
+<div class="rating-widget-showAll" data-id="product123"></div>
+<script src="https://jolen.me/webservices/rating-widget/rating-widget.js" data-api-key="abc123xyz"></script>
 
 ```html
 <head>

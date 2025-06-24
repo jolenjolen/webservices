@@ -1,7 +1,7 @@
 # 🌐 API-Enabled Web Services for Static Websites
 Easily integrate dynamic, real-time data into your static websites using our lightweight JavaScript widgets. Whether you're building a blog, product page, or landing site hosted on GitHub Pages, Netlify, or Vercel — you can now display and interact with dynamic data without a backend.
 
-[!ALERT]
+[!NOTE]
 webservices will be moving to https://diolenweb.com
 
 ## 🚀 Features

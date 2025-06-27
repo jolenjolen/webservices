@@ -84,7 +84,7 @@ Whether you're a beginner or a seasoned developer, your contributions are welcom
 |Suggest or build new widgets|
 
 
-📧 Contact me directly at jolen@jolen.me if you’d like to collaborate or need help getting started.
+📧 Contact me directly at &#106;&#111;&#108;&#101;&#110;&#64;&#106;&#111;&#108;&#101;&#110;&#46;&#109;&#101; if you’d like to collaborate or need help getting started.
 
 |📅 Coming Soon|
 |:--|
